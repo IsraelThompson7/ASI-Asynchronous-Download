@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIAuthenticationDialog.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIDataDecompressor.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIFormDataRequest.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIFormDataRequest.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIInputStream.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weigo/!svn/ver/1/weigoV1.4/Classes/ASIHttpRequest/Classes/ASIDataCompressor.m
+END

@@ -9,9 +9,12 @@
 #import "AppDelegate.h"
 
 @implementation AppDelegate
+@synthesize imageCache, networkQueue;
 
 - (void)dealloc
 {
+    [imageCache release];
+    [networkQueue release];
     [_window release];
     [super dealloc];
 }
@@ -21,6 +24,25 @@
     self.window = [[[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]] autorelease];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
+    
+    IndexViewController *mainVC = [[IndexViewController alloc] init];
+    self.window.rootViewController = mainVC;
+    [mainVC release];
+    
+    //自定义缓存
+    imageCache = [[ASIDownloadCache alloc] init];
+    
+    //设置缓存路径
+    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *documentDirectory = [paths objectAtIndex:0];
+    [self.imageCache setStoragePath:[documentDirectory stringByAppendingPathComponent:@"resource"]];
+    [self.imageCache setDefaultCachePolicy:ASIOnlyLoadIfNotCachedCachePolicy];
+//    [self.imageCache clearCachedResponsesForStoragePolicy:ASICachePermanentlyCacheStoragePolicy];
+    
+    //自定义networkQueue
+    networkQueue = [[ASINetworkQueue alloc] init];
+    [networkQueue reset];
+    
     [self.window makeKeyAndVisible];
     return YES;
 }
